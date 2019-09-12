@@ -1,5 +1,5 @@
 {
-  "name": "vscode-docs",
+  "name": "dolly-docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/momopig/vscode-docs/issues"
   },
-  "homepage": "https://github.com/momopig/vscode-docs#readme"
+  "homepage": "https://github.com/momopig/vscode-docs#readme",
+  "dependencies": {
+    "clear": "^0.1.0"
+  }
 }
