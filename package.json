@@ -1,0 +1,20 @@
+{
+  "name": "vscode-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "sh publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momopig/vscode-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momopig/vscode-docs/issues"
+  },
+  "homepage": "https://github.com/momopig/vscode-docs#readme"
+}
